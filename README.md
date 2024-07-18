@@ -17,6 +17,7 @@ The main method for learning here is to find websites/techniques which I think a
 |--|--|
 |  [Commonly used web animation techniques used on professional websites](https://www.youtube.com/watch?v=9eHEOAn2FOA) |[Olivier Larose](https://github.com/olivierlarose) 
 |[DesignJoy Thread on Figma Plugins](https://x.com/BrettFromDJ/status/1800977158942359583)|[Brett from DJ](https://www.designjoy.co/)
+|(Abstract Design Photoshop Tutorials)[https://www.youtube.com/@macherrydesign]| MA Cherry Studio
 
 ### Inspiration
 
