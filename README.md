@@ -21,3 +21,7 @@ The main method for learning here is to find websites/techniques which I think a
 ### Inspiration
 
 [Studio Freight](https://studiofreight.com/)
+
+## Tools
+
+[CSS for Easing functions](https://easings.net/)
